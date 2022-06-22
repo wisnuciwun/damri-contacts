@@ -4,7 +4,7 @@ Damri contacts adalah aplikasi berbasis kotlin yang dibuat untuk menyimpan data 
 
 > 1. Halaman login
 
-![login screen](https://i.ibb.co/GQB0C6h/1.jpg)
+![](https://i.ibb.co/GQB0C6h/1.jpg | width=100)
 
 3. Logo launcher
 4. Tampilan scrollview untuk melihat semua list kontak yang tersimpan
